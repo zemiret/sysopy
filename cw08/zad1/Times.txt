@@ -1,0 +1,210 @@
+Filter: filter3.pgm
+Type: block
+Threads: 1
+tid: 140448473433856 - thread_time: 81138
+Total time: 81267
+
+Filter: filter3.pgm
+Type: block
+Threads: 2
+tid: 139662634825472 - thread_time: 44594
+tid: 139662626432768 - thread_time: 43726
+Total time: 44676
+
+Filter: filter3.pgm
+Type: block
+Threads: 4
+tid: 140249772197632 - thread_time: 29259
+tid: 140249763804928 - thread_time: 42541
+tid: 140249755412224 - thread_time: 24465
+tid: 140249747019520 - thread_time: 25705
+Total time: 42626
+
+Filter: filter3.pgm
+Type: block
+Threads: 8
+tid: 140457107543808 - thread_time: 20773
+tid: 140457099151104 - thread_time: 16728
+tid: 140457090758400 - thread_time: 10256
+tid: 140457082365696 - thread_time: 24439
+tid: 140457073972992 - thread_time: 27834
+tid: 140457065580288 - thread_time: 26824
+tid: 140457057187584 - thread_time: 9606
+tid: 140457048794880 - thread_time: 21485
+Total time: 42473
+
+Filter: filter3.pgm
+Type: interleaved
+Threads: 1
+tid: 140522440787712 - thread_time: 51216
+Total time: 51308
+
+Filter: filter3.pgm
+Type: interleaved
+Threads: 2
+tid: 139804416886528 - thread_time: 42610
+tid: 139804408493824 - thread_time: 26117
+Total time: 42727
+
+Filter: filter3.pgm
+Type: interleaved
+Threads: 4
+tid: 140358120814336 - thread_time: 26854
+tid: 140358112421632 - thread_time: 19980
+tid: 140358104028928 - thread_time: 22247
+tid: 140358095636224 - thread_time: 24989
+Total time: 35726
+
+Filter: filter3.pgm
+Type: interleaved
+Threads: 8
+tid: 140345073739520 - thread_time: 13329
+tid: 140345065346816 - thread_time: 17982
+tid: 140345056954112 - thread_time: 13584
+tid: 140345048561408 - thread_time: 14901
+tid: 140345040168704 - thread_time: 19087
+tid: 140345031776000 - thread_time: 16228
+tid: 140345023383296 - thread_time: 14668
+tid: 140345014990592 - thread_time: 16765
+Total time: 31209
+
+Filter: filter18.pgm
+Type: block
+Threads: 1
+tid: 140709597513472 - thread_time: 1795110
+Total time: 1795220
+
+Filter: filter18.pgm
+Type: block
+Threads: 2
+tid: 139694649751296 - thread_time: 1371926
+tid: 139694641358592 - thread_time: 1383137
+Total time: 1386520
+
+Filter: filter18.pgm
+Type: block
+Threads: 4
+tid: 139819158550272 - thread_time: 1193187
+tid: 139819150157568 - thread_time: 945572
+tid: 139819141764864 - thread_time: 1135511
+tid: 139819133372160 - thread_time: 1112311
+Total time: 1193275
+
+Filter: filter18.pgm
+Type: block
+Threads: 8
+tid: 140432465229568 - thread_time: 1182386
+tid: 140432456836864 - thread_time: 1283434
+tid: 140432448444160 - thread_time: 1260827
+tid: 140432440051456 - thread_time: 340026
+tid: 140432431658752 - thread_time: 1199602
+tid: 140432423266048 - thread_time: 1188112
+tid: 140432414873344 - thread_time: 1016340
+tid: 140432406480640 - thread_time: 1230309
+Total time: 1301313
+
+Filter: filter18.pgm
+Type: interleaved
+Threads: 1
+tid: 140577617594112 - thread_time: 1858083
+Total time: 1858167
+
+Filter: filter18.pgm
+Type: interleaved
+Threads: 2
+tid: 140222862874368 - thread_time: 1403164
+tid: 140222854481664 - thread_time: 1374056
+Total time: 1403238
+
+Filter: filter18.pgm
+Type: interleaved
+Threads: 4
+tid: 140268791637760 - thread_time: 1192394
+tid: 140268783245056 - thread_time: 1225205
+tid: 140268774852352 - thread_time: 1312078
+tid: 140268766459648 - thread_time: 1182193
+Total time: 1321583
+
+Filter: filter18.pgm
+Type: interleaved
+Threads: 8
+tid: 140145953490688 - thread_time: 1118297
+tid: 140145945097984 - thread_time: 418128
+tid: 140145936705280 - thread_time: 844130
+tid: 140145928312576 - thread_time: 1095600
+tid: 140145919919872 - thread_time: 1159217
+tid: 140145911527168 - thread_time: 1119900
+tid: 140145903134464 - thread_time: 1031816
+tid: 140145894741760 - thread_time: 987163
+Total time: 1172018
+
+Filter: filter48.pgm
+Type: block
+Threads: 1
+tid: 140027221501696 - thread_time: 16152960
+Total time: 16153051
+
+Filter: filter48.pgm
+Type: block
+Threads: 2
+tid: 140071478707968 - thread_time: 9173962
+tid: 140071470315264 - thread_time: 8919374
+Total time: 9174048
+
+Filter: filter48.pgm
+Type: block
+Threads: 4
+tid: 139879324514048 - thread_time: 6616025
+tid: 139879316121344 - thread_time: 7347880
+tid: 139879307728640 - thread_time: 7739196
+tid: 139879299335936 - thread_time: 7668455
+Total time: 7741756
+
+Filter: filter48.pgm
+Type: block
+Threads: 8
+tid: 140066225706752 - thread_time: 7437762
+tid: 140066217314048 - thread_time: 6978243
+tid: 140066208921344 - thread_time: 6476266
+tid: 140066200528640 - thread_time: 6996064
+tid: 140066192135936 - thread_time: 6563166
+tid: 140066183743232 - thread_time: 7401567
+tid: 140066175350528 - thread_time: 7137526
+tid: 140066166957824 - thread_time: 7213815
+Total time: 7437888
+
+Filter: filter48.pgm
+Type: interleaved
+Threads: 1
+tid: 140355775616768 - thread_time: 12629822
+Total time: 12629934
+
+Filter: filter48.pgm
+Type: interleaved
+Threads: 2
+tid: 140575285479168 - thread_time: 9186762
+tid: 140575277086464 - thread_time: 8871667
+Total time: 9186844
+
+Filter: filter48.pgm
+Type: interleaved
+Threads: 4
+tid: 140429148509952 - thread_time: 7110077
+tid: 140429140117248 - thread_time: 6876078
+tid: 140429131724544 - thread_time: 6947985
+tid: 140429123331840 - thread_time: 7043500
+Total time: 7110184
+
+Filter: filter48.pgm
+Type: interleaved
+Threads: 8
+tid: 140079418459904 - thread_time: 7997176
+tid: 140079410067200 - thread_time: 8089741
+tid: 140079401674496 - thread_time: 7691640
+tid: 140079393281792 - thread_time: 7360247
+tid: 140079384889088 - thread_time: 7861535
+tid: 140079376496384 - thread_time: 8107310
+tid: 140079368103680 - thread_time: 6671346
+tid: 140079359710976 - thread_time: 7597571
+Total time: 8119168
+

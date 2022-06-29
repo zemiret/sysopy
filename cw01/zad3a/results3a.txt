@@ -1,0 +1,83 @@
+STATIC
+--- Small directory search ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium directory search ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big directory search ---
+Real Time: 150.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Small block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Small block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x small block create and delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x medium block create and delete ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x big block create and delete ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 10.000000ms
+SHARED
+--- Small directory search ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium directory search ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big directory search ---
+Real Time: 140.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Small block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Small block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x small block create and delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x medium block create and delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x big block create and delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+DYNAMIC
+--- Small directory search ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium directory search ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big directory search ---
+Real Time: 140.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Small block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Small block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x small block create and delete ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x medium block create and delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x big block create and delete ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 10.000000ms
+
+
+WNIOSKI:
+Nie zaobserwowano dużych rozbieżności w czasach wykonania pomiędzy użytymi rodzajami bibliotek. Może być to spowodowane przede wszystkim:
+- cache'owaniem systemowym inode'ów, co usprawnia przeszukiwanie,
+- zbyt szybką maszyną,
+- zbyt małą rozdzielczością zegara użytego do pomiarów
+

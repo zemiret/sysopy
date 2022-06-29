@@ -1,0 +1,138 @@
+Built binaries.
+---
+Benchmark statistics:
+
+Record size: 1, record count: 10000
+Generated data.
+Sorting:
+lib: 
+real	0m19,504s
+user	0m8,796s
+sys	0m10,692s
+sys: 
+real	0m44,474s
+user	0m12,554s
+sys	0m31,337s
+Copying:
+lib: 
+real	0m0,002s
+user	0m0,002s
+sys	0m0,000s
+sys: 
+real	0m0,002s
+user	0m0,002s
+sys	0m0,000s
+---
+Record size: 4, record count: 8000
+Generated data.
+Sorting:
+lib: 
+real	0m14,266s
+user	0m6,545s
+sys	0m7,452s
+sys: 
+real	0m27,657s
+user	0m8,064s
+sys	0m19,466s
+Copying:
+lib: 
+real	0m0,001s
+user	0m0,001s
+sys	0m0,000s
+sys: 
+real	0m0,001s
+user	0m0,001s
+sys	0m0,000s
+---
+Record size: 512, record count: 6000
+Generated data.
+Sorting:
+lib: 
+real	0m10,773s
+user	0m4,185s
+sys	0m6,532s
+sys: 
+real	0m19,204s
+user	0m4,900s
+sys	0m14,210s
+Copying:
+lib: 
+real	0m0,004s
+user	0m0,000s
+sys	0m0,004s
+sys: 
+real	0m0,004s
+user	0m0,000s
+sys	0m0,004s
+---
+Record size: 1024, record count: 7000
+Generated data.
+Sorting:
+lib: 
+real	0m16,957s
+user	0m5,523s
+sys	0m11,433s
+sys: 
+real	0m24,426s
+user	0m6,343s
+sys	0m18,065s
+Copying:
+lib: 
+real	0m0,008s
+user	0m0,000s
+sys	0m0,008s
+sys: 
+real	0m0,010s
+user	0m0,000s
+sys	0m0,010s
+---
+Record size: 4096, record count: 5000
+Generated data.
+Sorting:
+lib: 
+real	0m17,736s
+user	0m3,921s
+sys	0m13,768s
+sys: 
+real	0m13,388s
+user	0m3,081s
+sys	0m10,295s
+Copying:
+lib: 
+real	0m0,020s
+user	0m0,003s
+sys	0m0,016s
+sys: 
+real	0m0,020s
+user	0m0,003s
+sys	0m0,017s
+---
+Record size: 8192, record count: 5000
+Generated data.
+Sorting:
+lib: 
+real	0m17,373s
+user	0m3,897s
+sys	0m13,473s
+sys: 
+real	0m13,130s
+user	0m3,020s
+sys	0m9,822s
+Copying:
+lib: 
+real	0m0,041s
+user	0m0,000s
+sys	0m0,041s
+sys: 
+real	0m0,045s
+user	0m0,007s
+sys	0m0,038s
+---
+
+WNIOSKI:
+Dla podanych wielkości i liczby bloków, fread we wszystkich przypadkach okazał się szybszy niż read.
+Na początku różnica jest duża jednak w miarę zwiększania rozmiaru bloków, zaczyna się zacierać.
+Gdyby sukcesywnie zwiększać rozmiary bloków, prawdopodobnie read stałby się szybszy.
+Przypuszczalnie jest to spowodowane wykorzystaniem bufora. fread jest buforowany, podczas gdy read nie.
+Dla małych bloków bufor daje duże usprawnienie, ponieważ większość czytanych danych jest w pamięci, a dostęp do pamięci jest dużo szybszy niż do dysku.
+Jednak im większy jest blok, tym mniejszą przewagę daje bufor, ponieważ współczynnik trafień w bufor sukcesywnie się zmniejsza, a więc koszt utrzymywania go rośnie.

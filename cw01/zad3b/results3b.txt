@@ -1,0 +1,484 @@
+O0
+STATIC
+./static 10 benchmark
+--- Small directory search ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium directory search ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big directory search ---
+Real Time: 130.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Small block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Small block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x small block create and delete ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x medium block create and delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x big block create and delete ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 10.000000ms
+SHARED
+./shared 10 benchmark
+--- Small directory search ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium directory search ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big directory search ---
+Real Time: 150.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Small block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Small block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x small block create and delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x medium block create and delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x big block create and delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 10.000000ms
+DYNAMIC
+./dynamic 10 benchmark
+--- Small directory search ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium directory search ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big directory search ---
+Real Time: 140.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Small block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Small block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x small block create and delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x medium block create and delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x big block create and delete ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 10.000000ms
+
+O1
+STATIC
+./static 10 benchmark
+--- Small directory search ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium directory search ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big directory search ---
+Real Time: 130.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Small block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Small block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x small block create and delete ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x medium block create and delete ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x big block create and delete ---
+Real Time: 10.000000ms, User Time 10.000000ms, System Time 0.000000ms
+SHARED
+./shared 10 benchmark
+--- Small directory search ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium directory search ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big directory search ---
+Real Time: 140.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Small block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Small block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x small block create and delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x medium block create and delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x big block create and delete ---
+Real Time: 10.000000ms, User Time 10.000000ms, System Time 0.000000ms
+DYNAMIC
+./dynamic 10 benchmark
+--- Small directory search ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium directory search ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big directory search ---
+Real Time: 140.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Small block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Small block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x small block create and delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x medium block create and delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x big block create and delete ---
+Real Time: 20.000000ms, User Time 0.000000ms, System Time 10.000000ms
+
+O2
+make static
+STATIC
+./static 10 benchmark
+--- Small directory search ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium directory search ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big directory search ---
+Real Time: 170.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Small block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Small block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x small block create and delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x medium block create and delete ---
+Real Time: 0.000000ms, User Time 10.000000ms, System Time 0.000000ms
+--- 1000x big block create and delete ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 0.000000ms
+SHARED
+./shared 10 benchmark
+--- Small directory search ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium directory search ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big directory search ---
+Real Time: 140.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Small block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Small block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x small block create and delete ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x medium block create and delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x big block create and delete ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 10.000000ms
+DYNAMIC
+./dynamic 10 benchmark
+--- Small directory search ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium directory search ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big directory search ---
+Real Time: 160.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Small block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Small block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x small block create and delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x medium block create and delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x big block create and delete ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 10.000000ms
+
+O3
+STATIC
+./static 10 benchmark
+--- Small directory search ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium directory search ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big directory search ---
+Real Time: 130.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Small block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Small block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x small block create and delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x medium block create and delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x big block create and delete ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 10.000000ms
+SHARED
+./shared 10 benchmark
+--- Small directory search ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium directory search ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big directory search ---
+Real Time: 180.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Small block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Small block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x small block create and delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x medium block create and delete ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x big block create and delete ---
+Real Time: 10.000000ms, User Time 10.000000ms, System Time 10.000000ms
+DYNAMIC
+./dynamic 10 benchmark
+--- Small directory search ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium directory search ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big directory search ---
+Real Time: 130.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Small block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Small block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x small block create and delete ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x medium block create and delete ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x big block create and delete ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 10.000000ms
+
+Os
+STATIC
+./static 10 benchmark
+--- Small directory search ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium directory search ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big directory search ---
+Real Time: 140.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Small block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Small block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x small block create and delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x medium block create and delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x big block create and delete ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 10.000000ms
+SHARED
+./shared 10 benchmark
+--- Small directory search ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium directory search ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big directory search ---
+Real Time: 140.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Small block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Small block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x small block create and delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x medium block create and delete ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x big block create and delete ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 10.000000ms
+DYNAMIC
+./dynamic 10 benchmark
+--- Small directory search ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium directory search ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big directory search ---
+Real Time: 140.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Small block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Small block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x small block create and delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x medium block create and delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x big block create and delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 10.000000ms
+
+Ofast
+STATIC
+./static 10 benchmark
+--- Small directory search ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium directory search ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big directory search ---
+Real Time: 130.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Small block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Small block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x small block create and delete ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x medium block create and delete ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x big block create and delete ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 0.000000ms
+SHARED
+./shared 10 benchmark
+--- Small directory search ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium directory search ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big directory search ---
+Real Time: 140.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Small block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Small block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x small block create and delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x medium block create and delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x big block create and delete ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 10.000000ms
+DYNAMIC
+./dynamic 10 benchmark
+--- Small directory search ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium directory search ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big directory search ---
+Real Time: 150.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Small block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Small block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x small block create and delete ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x medium block create and delete ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x big block create and delete ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 10.000000ms
+
+
+WNIOSKI:
+Otrzymane czasy na różnych poziomach optymalizacji nie różnią się specjalnie miedzy sobą. Największym "winowajcą" w tym wypadku jest prawdopodobnie prędkość maszyny, na której odpalane były testy.

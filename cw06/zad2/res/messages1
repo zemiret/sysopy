@@ -1,0 +1,596 @@
+ECHO Start of sequence
+
+LIST
+2ALL Kanapeczki dla wszystkich
+
+2ONE 0 Kanapeczki dla 0
+2ONE 1 Kanapeczki dla 1
+2ONE 2 Kanapeczki dla 2
+
+FRIENDS 0 1 2
+2FRIENDS Hello friends
+
+DEL 2
+2FRIENDS Bez 2 :(
+ADD 2
+2FRIENDS Guess who is back! 2! c:
+DEL 2
+2FRIENDS Bez 2 :(
+DEL 1
+2FRIENDS Bez 1 :(
+DEL 0
+
+2FRIENDS Do nikogo? :(
+FRIENDS 0 1 2
+2FRIENDS Hello friends
+FRIENDS
+2FRIENDS No friends? :(
+
+ECHO End of sequence
+
+ECHO Start of sequence
+
+LIST
+2ALL Kanapeczki dla wszystkich
+
+2ONE 0 Kanapeczki dla 0
+2ONE 1 Kanapeczki dla 1
+2ONE 2 Kanapeczki dla 2
+
+FRIENDS 0 1 2
+2FRIENDS Hello friends
+
+DEL 2
+2FRIENDS Bez 2 :(
+ADD 2
+2FRIENDS Guess who is back! 2! c:
+DEL 2
+2FRIENDS Bez 2 :(
+DEL 1
+2FRIENDS Bez 1 :(
+DEL 0
+
+2FRIENDS Do nikogo? :(
+FRIENDS 0 1 2
+2FRIENDS Hello friends
+FRIENDS
+2FRIENDS No friends? :(
+
+ECHO End of sequence
+ECHO Start of sequence
+
+LIST
+2ALL Kanapeczki dla wszystkich
+
+2ONE 0 Kanapeczki dla 0
+2ONE 1 Kanapeczki dla 1
+2ONE 2 Kanapeczki dla 2
+
+FRIENDS 0 1 2
+2FRIENDS Hello friends
+
+DEL 2
+2FRIENDS Bez 2 :(
+ADD 2
+2FRIENDS Guess who is back! 2! c:
+DEL 2
+2FRIENDS Bez 2 :(
+DEL 1
+2FRIENDS Bez 1 :(
+DEL 0
+
+2FRIENDS Do nikogo? :(
+FRIENDS 0 1 2
+2FRIENDS Hello friends
+FRIENDS
+2FRIENS No friends? :(
+
+ECHO End of sequence
+
+ECHO Start of sequence
+
+LIST
+2ALL Kanapeczki dla wszystkich
+
+2ONE 0 Kanapeczki dla 0
+2ONE 1 Kanapeczki dla 1
+2ONE 2 Kanapeczki dla 2
+
+FRIENDS 0 1 2
+2FRIENDS Hello friends
+
+DEL 2
+2FRIENDS Bez 2 :(
+ADD 2
+2FRIENDS Guess who is back! 2! c:
+DEL 2
+2FRIENDS Bez 2 :(
+DEL 1
+2FRIENDS Bez 1 :(
+DEL 0
+
+2FRIENDS Do nikogo? :(
+FRIENDS 0 1 2
+2FRIENDS Hello friends
+FRIENDS
+2FRIENS No friends? :(
+
+ECHO End of sequence
+
+ECHO Start of sequence
+
+LIST
+2ALL Kanapeczki dla wszystkich
+
+2ONE 0 Kanapeczki dla 0
+2ONE 1 Kanapeczki dla 1
+2ONE 2 Kanapeczki dla 2
+
+FRIENDS 0 1 2
+2FRIENDS Hello friends
+
+DEL 2
+2FRIENDS Bez 2 :(
+ADD 2
+2FRIENDS Guess who is back! 2! c:
+DEL 2
+2FRIENDS Bez 2 :(
+DEL 1
+2FRIENDS Bez 1 :(
+DEL 0
+
+2FRIENDS Do nikogo? :(
+FRIENDS 0 1 2
+2FRIENDS Hello friends
+FRIENDS
+2FRIENS No friends? :(
+
+ECHO End of sequence
+
+ECHO Start of sequence
+
+LIST
+2ALL Kanapeczki dla wszystkich
+
+2ONE 0 Kanapeczki dla 0
+2ONE 1 Kanapeczki dla 1
+2ONE 2 Kanapeczki dla 2
+
+FRIENDS 0 1 2
+2FRIENDS Hello friends
+
+DEL 2
+2FRIENDS Bez 2 :(
+ADD 2
+2FRIENDS Guess who is back! 2! c:
+DEL 2
+2FRIENDS Bez 2 :(
+DEL 1
+2FRIENDS Bez 1 :(
+DEL 0
+
+2FRIENDS Do nikogo? :(
+FRIENDS 0 1 2
+2FRIENDS Hello friends
+FRIENDS
+2FRIENS No friends? :(
+
+ECHO End of sequence
+
+ECHO Start of sequence
+
+LIST
+2ALL Kanapeczki dla wszystkich
+
+2ONE 0 Kanapeczki dla 0
+2ONE 1 Kanapeczki dla 1
+2ONE 2 Kanapeczki dla 2
+
+FRIENDS 0 1 2
+2FRIENDS Hello friends
+
+DEL 2
+2FRIENDS Bez 2 :(
+ADD 2
+2FRIENDS Guess who is back! 2! c:
+DEL 2
+2FRIENDS Bez 2 :(
+DEL 1
+2FRIENDS Bez 1 :(
+DEL 0
+
+2FRIENDS Do nikogo? :(
+FRIENDS 0 1 2
+2FRIENDS Hello friends
+FRIENDS
+2FRIENS No friends? :(
+
+ECHO End of sequence
+
+ECHO Start of sequence
+
+LIST
+2ALL Kanapeczki dla wszystkich
+
+2ONE 0 Kanapeczki dla 0
+2ONE 1 Kanapeczki dla 1
+2ONE 2 Kanapeczki dla 2
+
+FRIENDS 0 1 2
+2FRIENDS Hello friends
+
+DEL 2
+2FRIENDS Bez 2 :(
+ADD 2
+2FRIENDS Guess who is back! 2! c:
+DEL 2
+2FRIENDS Bez 2 :(
+DEL 1
+2FRIENDS Bez 1 :(
+DEL 0
+
+2FRIENDS Do nikogo? :(
+FRIENDS 0 1 2
+2FRIENDS Hello friends
+FRIENDS
+2FRIENDS No friends? :(
+
+ECHO End of sequence
+ECHO Start of sequence
+
+LIST
+2ALL Kanapeczki dla wszystkich
+
+2ONE 0 Kanapeczki dla 0
+2ONE 1 Kanapeczki dla 1
+2ONE 2 Kanapeczki dla 2
+
+FRIENDS 0 1 2
+2FRIENDS Hello friends
+
+DEL 2
+2FRIENDS Bez 2 :(
+ADD 2
+2FRIENDS Guess who is back! 2! c:
+DEL 2
+2FRIENDS Bez 2 :(
+DEL 1
+2FRIENDS Bez 1 :(
+DEL 0
+
+2FRIENDS Do nikogo? :(
+FRIENDS 0 1 2
+2FRIENDS Hello friends
+FRIENDS
+2FRIENS No friends? :(
+
+ECHO End of sequence
+
+ECHO Start of sequence
+
+LIST
+2ALL Kanapeczki dla wszystkich
+
+2ONE 0 Kanapeczki dla 0
+2ONE 1 Kanapeczki dla 1
+2ONE 2 Kanapeczki dla 2
+
+FRIENDS 0 1 2
+2FRIENDS Hello friends
+
+DEL 2
+2FRIENDS Bez 2 :(
+ADD 2
+2FRIENDS Guess who is back! 2! c:
+DEL 2
+2FRIENDS Bez 2 :(
+DEL 1
+2FRIENDS Bez 1 :(
+DEL 0
+
+2FRIENDS Do nikogo? :(
+FRIENDS 0 1 2
+2FRIENDS Hello friends
+FRIENDS
+2FRIENS No friends? :(
+
+ECHO End of sequence
+
+ECHO Start of sequence
+
+LIST
+2ALL Kanapeczki dla wszystkich
+
+2ONE 0 Kanapeczki dla 0
+2ONE 1 Kanapeczki dla 1
+2ONE 2 Kanapeczki dla 2
+
+FRIENDS 0 1 2
+2FRIENDS Hello friends
+
+DEL 2
+2FRIENDS Bez 2 :(
+ADD 2
+2FRIENDS Guess who is back! 2! c:
+DEL 2
+2FRIENDS Bez 2 :(
+DEL 1
+2FRIENDS Bez 1 :(
+DEL 0
+
+2FRIENDS Do nikogo? :(
+FRIENDS 0 1 2
+2FRIENDS Hello friends
+FRIENDS
+2FRIENS No friends? :(
+
+ECHO End of sequence
+
+ECHO Start of sequence
+
+LIST
+2ALL Kanapeczki dla wszystkich
+
+2ONE 0 Kanapeczki dla 0
+2ONE 1 Kanapeczki dla 1
+2ONE 2 Kanapeczki dla 2
+
+FRIENDS 0 1 2
+2FRIENDS Hello friends
+
+DEL 2
+2FRIENDS Bez 2 :(
+ADD 2
+2FRIENDS Guess who is back! 2! c:
+DEL 2
+2FRIENDS Bez 2 :(
+DEL 1
+2FRIENDS Bez 1 :(
+DEL 0
+
+2FRIENDS Do nikogo? :(
+FRIENDS 0 1 2
+2FRIENDS Hello friends
+FRIENDS
+2FRIENS No friends? :(
+
+ECHO End of sequence
+
+ECHO Start of sequence
+
+LIST
+2ALL Kanapeczki dla wszystkich
+
+2ONE 0 Kanapeczki dla 0
+2ONE 1 Kanapeczki dla 1
+2ONE 2 Kanapeczki dla 2
+
+FRIENDS 0 1 2
+2FRIENDS Hello friends
+
+DEL 2
+2FRIENDS Bez 2 :(
+ADD 2
+2FRIENDS Guess who is back! 2! c:
+DEL 2
+2FRIENDS Bez 2 :(
+DEL 1
+2FRIENDS Bez 1 :(
+DEL 0
+
+2FRIENDS Do nikogo? :(
+FRIENDS 0 1 2
+2FRIENDS Hello friends
+FRIENDS
+2FRIENS No friends? :(
+
+ECHO End of sequence
+
+ECHO Start of sequence
+
+LIST
+2ALL Kanapeczki dla wszystkich
+
+2ONE 0 Kanapeczki dla 0
+2ONE 1 Kanapeczki dla 1
+2ONE 2 Kanapeczki dla 2
+
+FRIENDS 0 1 2
+2FRIENDS Hello friends
+
+DEL 2
+2FRIENDS Bez 2 :(
+ADD 2
+2FRIENDS Guess who is back! 2! c:
+DEL 2
+2FRIENDS Bez 2 :(
+DEL 1
+2FRIENDS Bez 1 :(
+DEL 0
+
+2FRIENDS Do nikogo? :(
+FRIENDS 0 1 2
+2FRIENDS Hello friends
+FRIENDS
+2FRIENDS No friends? :(
+
+ECHO End of sequence
+ECHO Start of sequence
+
+LIST
+2ALL Kanapeczki dla wszystkich
+
+2ONE 0 Kanapeczki dla 0
+2ONE 1 Kanapeczki dla 1
+2ONE 2 Kanapeczki dla 2
+
+FRIENDS 0 1 2
+2FRIENDS Hello friends
+
+DEL 2
+2FRIENDS Bez 2 :(
+ADD 2
+2FRIENDS Guess who is back! 2! c:
+DEL 2
+2FRIENDS Bez 2 :(
+DEL 1
+2FRIENDS Bez 1 :(
+DEL 0
+
+2FRIENDS Do nikogo? :(
+FRIENDS 0 1 2
+2FRIENDS Hello friends
+FRIENDS
+2FRIENS No friends? :(
+
+ECHO End of sequence
+
+ECHO Start of sequence
+
+LIST
+2ALL Kanapeczki dla wszystkich
+
+2ONE 0 Kanapeczki dla 0
+2ONE 1 Kanapeczki dla 1
+2ONE 2 Kanapeczki dla 2
+
+FRIENDS 0 1 2
+2FRIENDS Hello friends
+
+DEL 2
+2FRIENDS Bez 2 :(
+ADD 2
+2FRIENDS Guess who is back! 2! c:
+DEL 2
+2FRIENDS Bez 2 :(
+DEL 1
+2FRIENDS Bez 1 :(
+DEL 0
+
+2FRIENDS Do nikogo? :(
+FRIENDS 0 1 2
+2FRIENDS Hello friends
+FRIENDS
+2FRIENS No friends? :(
+
+ECHO End of sequence
+
+ECHO Start of sequence
+
+LIST
+2ALL Kanapeczki dla wszystkich
+
+2ONE 0 Kanapeczki dla 0
+2ONE 1 Kanapeczki dla 1
+2ONE 2 Kanapeczki dla 2
+
+FRIENDS 0 1 2
+2FRIENDS Hello friends
+
+DEL 2
+2FRIENDS Bez 2 :(
+ADD 2
+2FRIENDS Guess who is back! 2! c:
+DEL 2
+2FRIENDS Bez 2 :(
+DEL 1
+2FRIENDS Bez 1 :(
+DEL 0
+
+2FRIENDS Do nikogo? :(
+FRIENDS 0 1 2
+2FRIENDS Hello friends
+FRIENDS
+2FRIENS No friends? :(
+
+ECHO End of sequence
+
+ECHO Start of sequence
+
+LIST
+2ALL Kanapeczki dla wszystkich
+
+2ONE 0 Kanapeczki dla 0
+2ONE 1 Kanapeczki dla 1
+2ONE 2 Kanapeczki dla 2
+
+FRIENDS 0 1 2
+2FRIENDS Hello friends
+
+DEL 2
+2FRIENDS Bez 2 :(
+ADD 2
+2FRIENDS Guess who is back! 2! c:
+DEL 2
+2FRIENDS Bez 2 :(
+DEL 1
+2FRIENDS Bez 1 :(
+DEL 0
+
+2FRIENDS Do nikogo? :(
+FRIENDS 0 1 2
+2FRIENDS Hello friends
+FRIENDS
+2FRIENS No friends? :(
+
+ECHO End of sequence
+
+ECHO Start of sequence
+
+LIST
+2ALL Kanapeczki dla wszystkich
+
+2ONE 0 Kanapeczki dla 0
+2ONE 1 Kanapeczki dla 1
+2ONE 2 Kanapeczki dla 2
+
+FRIENDS 0 1 2
+2FRIENDS Hello friends
+
+DEL 2
+2FRIENDS Bez 2 :(
+ADD 2
+2FRIENDS Guess who is back! 2! c:
+DEL 2
+2FRIENDS Bez 2 :(
+DEL 1
+2FRIENDS Bez 1 :(
+DEL 0
+
+2FRIENDS Do nikogo? :(
+FRIENDS 0 1 2
+2FRIENDS Hello friends
+FRIENDS
+2FRIENS No friends? :(
+
+ECHO End of sequence
+
+ECHO Start of sequence
+
+LIST
+2ALL Kanapeczki dla wszystkich
+
+2ONE 0 Kanapeczki dla 0
+2ONE 1 Kanapeczki dla 1
+2ONE 2 Kanapeczki dla 2
+
+FRIENDS 0 1 2
+2FRIENDS Hello friends
+
+DEL 2
+2FRIENDS Bez 2 :(
+ADD 2
+2FRIENDS Guess who is back! 2! c:
+DEL 2
+2FRIENDS Bez 2 :(
+DEL 1
+2FRIENDS Bez 1 :(
+DEL 0
+
+2FRIENDS Do nikogo? :(
+FRIENDS 0 1 2
+2FRIENDS Hello friends
+FRIENDS
+2FRIENDS No friends? :(
+
+ECHO End of sequence

@@ -1,0 +1,28 @@
+--- Small directory search ---
+Real Time: 80.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium directory search ---
+Real Time: 30.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big directory search ---
+Real Time: 1830.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Small block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big block save ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Small block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Medium block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- Big block delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x small block create and delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x medium block create and delete ---
+Real Time: 0.000000ms, User Time 0.000000ms, System Time 0.000000ms
+--- 1000x big block create and delete ---
+Real Time: 10.000000ms, User Time 0.000000ms, System Time 10.000000ms
+
+WNIOSKI:
+System cache'uje ostatnio przeglądane inode'y, dlatego też czasy niektórych operacji na systemach plików, które powinny być dłuższe, są krótsze.
+Ponadto, dla niektórych przypadków rozdzielczość zegara jest niewystarczająca, aby zmierzyć czas operacji (patrząć na czasy powyżej, wygląda na to, że maksymalna rozdzielczość zegara to 10ms)
